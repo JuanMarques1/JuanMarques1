@@ -20,7 +20,7 @@ Passionate Software Developer and Technology Student focused on building scalabl
   <a href="https://www.linkedin.com/in/juan-oliveira-marques/">
     <img src="https://img.shields.io/badge/LinkedIn-juan--oliveira--marques-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
+</p>
 
 ---
 
